@@ -5,7 +5,7 @@
 
 	<div class = "footer">
 		
-	<span > 2016 © Graphic Era University 
+	<span > TopTech Sol ©  2024
 	</span>
 
 
